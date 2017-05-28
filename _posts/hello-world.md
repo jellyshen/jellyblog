@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post 
 title: Hello World
 ---
 
-{{ page.title}}
+{{ page.title }}
 ===============
 
 This is a test post.
